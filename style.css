@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.foto{
+    background-image: url('b1.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
